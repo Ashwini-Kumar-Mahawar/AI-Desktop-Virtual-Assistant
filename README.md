@@ -12,7 +12,6 @@ An intelligent desktop assistant built with Python to automate routine tasks usi
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
