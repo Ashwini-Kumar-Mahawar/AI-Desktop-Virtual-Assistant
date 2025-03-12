@@ -1,7 +1,6 @@
 import webbrowser
 
 def search_web(query):
-    # Remove the "search" keyword from the query
     query = query.replace("search", "").strip()
 
     # Construct the Google search URL
